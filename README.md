@@ -1,38 +1,164 @@
-<h1 align="center">Hi 👋, I'm PARVEEN YADAV</h1>
-<h3 align="center">Software Engineer | Problem Solver | Competitive Programmer</h3>
+ <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parveen720&label=Profile%20views&color=0e75b6&style=flat" alt="parveen720" /> </p>
+# 👋 Hi, I'm Parveen Yadav
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parveen720" alt="parveen720" /></a> </p>
+### Software Engineer | Problem Solver | Competitive Programmer
 
-- 🔭 I’m currently working on [Microservices E-Commerce Platform](https://github.com/Parveen720/ScaleOrder)
+Building software, solving challenging problems, and continuously learning.
 
-- 🌱 I’m currently learning **System Design, LLD, Distributed Systems**
+[![Profile Views](https://komarev.com/ghpvc/?username=Parveen720&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/Parveen720)
+[![GitHub followers](https://img.shields.io/github/followers/Parveen720?label=Followers&style=for-the-badge&color=blue)](https://github.com/Parveen720?tab=followers)
 
-- 👯 I’m looking to collaborate on **Open Source & Software Engineering Projects**
+</div>
 
-- 🤝 I’m looking for help with **Advanced DSA & System Design**
+---
 
-- 👨‍💻 All of my projects are available at [https://parveen-portfolio.vercel.app/](https://parveen-portfolio.vercel.app/)
+## 🚀 About Me
 
-- 💬 Ask me about **C++, DSA, Python, C#, Problem Solving**
+- 🎓 Computer Science student passionate about Software Engineering.
+- 💻 Solved **1500+ DSA problems** across coding platforms.
+- 🏆 CodeChef 3-Star | SIH Finalist.
+- 🔭 Currently building a **Microservices E-Commerce Platform**.
+- 🌱 Exploring System Design, Low-Level Design and Distributed Systems.
+- 👯 Interested in Open Source and collaborative software development.
+- 💬 Ask me about C++, DSA, Python, C#, Problem Solving and Software Development.
+- 📫 Reach me at: **parveenyadavpy57377@gmail.com**
+- 🌐 Portfolio: [parveen-portfolio.vercel.app](https://parveen-portfolio.vercel.app/)
 
-- 📫 How to reach me **parveenyadavpy57377@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vhx-JC4FtQv3e5nBxsE5dxgqMH9gHIFr/view?usp=drive_link](https://drive.google.com/file/d/1vhx-JC4FtQv3e5nBxsE5dxgqMH9gHIFr/view?usp=drive_link)
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/parveen-yadav-2b9667333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parveen-yadav-2b9667333/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/parveenyadavpy57377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parveenyadavpy57377" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parveenyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parveenyd" height="30" width="40" /></a>
+### Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,js" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Frameworks & Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parveen720&show_icons=true&locale=en&layout=compact" alt="parveen720" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,django,react,nodejs,html,css,bootstrap" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parveen720&show_icons=true&locale=en" alt="parveen720" /></p>
+### Databases & Infrastructure
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parveen720&" alt="parveen720" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### GitHub Overview
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parveen720&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parveen720&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+### ⭐ Contribution Statistics
+
+<img width="80%" src="https://github-readme-streak-stats.demolab.com?user=Parveen720&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Parveen720&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+
+</div>
+
+## 🟩 Contribution Calendar
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/6366f1/Parveen720" alt="GitHub Contribution Calendar" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Parveen720&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Parveen720/ScaleOrder">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Parveen720&repo=ScaleOrder&theme=tokyonight&hide_border=true" alt="ScaleOrder" />
+</a>
+
+</div>
+
+### Other Projects
+
+| Project | Description | Technology |
+|---|---|---|
+| FitElite Gym | Gym management application | .NET, PostgreSQL |
+| SKIT DDR Portal | Role-based document management | Django, SQL Server |
+| Car Dealership | Full-stack dealership website | Web Technologies |
+
+[Explore all my repositories →](https://github.com/Parveen720?tab=repositories)
+
+---
+
+## 📦 Repository Statistics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FParveen720&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=6366f1" alt="Public Repositories" />
+
+<img src="https://img.shields.io/github/followers/Parveen720?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+
+</div>
+
+**Total Stars Earned, Commits and Pull Requests:** See the GitHub Analytics card above.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/parveen-yadav-2b9667333/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/parveenyadavpy57377" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="45" height="45" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/parveenyd/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45" height="45" />
+</a>
+&nbsp;
+<a href="mailto:parveenyadavpy57377@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great software is built one problem at a time."
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
