@@ -2,49 +2,52 @@
 
 # 👋 Hi, I'm Parveen Yadav
 
-### Software Engineer | Problem Solver | Competitive Programmer
+### Software Engineer • Problem Solver • Competitive Programmer
 
-Building software, solving challenging problems, and continuously learning.
+*Building software. Solving problems. Learning continuously.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Parveen720&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/Parveen720)
-[![GitHub followers](https://img.shields.io/github/followers/Parveen720?label=Followers&style=for-the-badge&color=blue)](https://github.com/Parveen720?tab=followers)
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Parveen720&style=for-the-badge&color=7C3AED)](https://github.com/Parveen720)
+[![Followers](https://img.shields.io/github/followers/Parveen720?style=for-the-badge&color=2563EB)](https://github.com/Parveen720?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Parveen720?style=for-the-badge&color=F59E0B)](https://github.com/Parveen720?tab=repositories)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science student passionate about Software Engineering.
 - 💻 Solved **1500+ DSA problems** across coding platforms.
-- 🏆 CodeChef 3-Star | SIH Finalist.
-- 🔭 Currently building a **Microservices E-Commerce Platform**.
-- 🌱 Exploring System Design, Low-Level Design and Distributed Systems.
-- 👯 Interested in Open Source and collaborative software development.
-- 💬 Ask me about C++, DSA, Python, C#, Problem Solving and Software Development.
-- 📫 Reach me at: **parveenyadavpy57377@gmail.com**
-- 🌐 Portfolio: [parveen-portfolio.vercel.app](https://parveen-portfolio.vercel.app/)
+- 🏆 **CodeChef 3-Star | SIH Finalist**
+- 🚀 Building a Microservices E-Commerce Platform.
+- 🌱 Exploring System Design, LLD and Distributed Systems.
+- 🤝 Interested in Open Source and collaborative development.
+- 💬 Ask me about C++, DSA, Python, C#, Problem Solving.
+- 📫 **Email:** parveenyadavpy57377@gmail.com
+- 🌐 **Portfolio:** [parveen-portfolio.vercel.app](https://parveen-portfolio.vercel.app/)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚡ Tech Stack
 
-### Programming Languages
+**Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,js&theme=dark" />
 </p>
 
-### Frameworks & Technologies
+**Frameworks & Development**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,django,react,nodejs,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet,django,react,nodejs,html,css,bootstrap&theme=dark" />
 </p>
 
-### Databases & Infrastructure
+**Databases & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,postman&theme=dark" />
 </p>
 
 ---
@@ -53,112 +56,114 @@ Building software, solving challenging problems, and continuously learning.
 
 <div align="center">
 
-### GitHub Overview
+<a href="https://github.com/Parveen720">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Parveen720&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Statistics" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parveen720&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parveen720&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-### ⭐ Contribution Statistics
-
-<img width="80%" src="https://github-readme-streak-stats.demolab.com?user=Parveen720&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<a href="https://github.com/Parveen720">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parveen720&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Most Used Languages" />
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Parveen720&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
-
-</div>
-
-## 🟩 Contribution Calendar
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/6366f1/Parveen720" alt="GitHub Contribution Calendar" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Parveen720&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Parveen720&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Parveen720&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=38BDF8&area=true&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA%20Problems-1500%2B-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CodeChef-3%20Star-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SIH-Finalist-2563EB?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Parveen720/ScaleOrder">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Parveen720&repo=ScaleOrder&theme=tokyonight&hide_border=true" alt="ScaleOrder" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Parveen720&repo=ScaleOrder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="ScaleOrder Project" />
 </a>
 
 </div>
 
 ### Other Projects
 
-| Project | Description | Technology |
-|---|---|---|
+| Project | Description | Tech Stack |
+|:---|:---|:---|
 | FitElite Gym | Gym management application | .NET, PostgreSQL |
 | SKIT DDR Portal | Role-based document management | Django, SQL Server |
-| Car Dealership | Full-stack dealership website | Web Technologies |
-
-[Explore all my repositories →](https://github.com/Parveen720?tab=repositories)
-
----
-
-## 📦 Repository Statistics
+| Car Dealership | Dealership web application | Web Technologies |
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FParveen720&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=6366f1" alt="Public Repositories" />
-
-<img src="https://img.shields.io/github/followers/Parveen720?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+[![Explore Repositories](https://img.shields.io/badge/Explore%20All%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parveen720?tab=repositories)
 
 </div>
 
-**Total Stars Earned, Commits and Pull Requests:** See the GitHub Analytics card above.
-
 ---
 
-## 🌐 Connect With Me
+## 📦 GitHub Overview
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/parveen-yadav-2b9667333/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FParveen720&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=8B5CF6)
+
+![Followers](https://img.shields.io/github/followers/Parveen720?style=for-the-badge&color=2563EB)
+
+![GitHub Stars](https://img.shields.io/github/stars/Parveen720?style=for-the-badge&color=F59E0B)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/parveen-yadav-2b9667333/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" />
 </a>
-&nbsp;
-<a href="https://codeforces.com/profile/parveenyadavpy57377" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="45" height="45" />
+&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/parveenyadavpy57377">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="42" height="42" />
 </a>
-&nbsp;
-<a href="https://leetcode.com/parveenyd/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45" height="45" />
+&nbsp;&nbsp;
+<a href="https://leetcode.com/parveenyd/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="42" height="42" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:parveenyadavpy57377@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
 </a>
 
-</div>
+<br/><br/>
 
----
+### ⭐ Thanks for visiting my profile!
 
-<div align="center">
-
-### 💡 "Great software is built one problem at a time."
-
-**Thanks for visiting my profile! ⭐**
+*Let's build something impactful together.*
 
 </div>
