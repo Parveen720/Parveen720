@@ -1,39 +1,38 @@
-# Hi, I'm Parveen Kumar 👋
+<h1 align="center">Hi 👋, I'm PARVEEN YADAV</h1>
+<h3 align="center">Software Engineer | Problem Solver | Competitive Programmer</h3>
 
-### Software Engineer | C++ | Backend Development
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parveen720&label=Profile%20views&color=0e75b6&style=flat" alt="parveen720" /> </p>
 
-I am a Computer Science student passionate about problem-solving, competitive programming, and building scalable backend systems.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parveen720" alt="parveen720" /></a> </p>
 
-- 💻 Solved 1500+ DSA problems
-- 🏆 CodeChef 3-Star
-- 🚀 Building microservices and backend applications
-- 🌱 Learning System Design and Low-Level Design
-- 🎯 Interested in Software Engineering and Open Source
+- 🔭 I’m currently working on [Microservices E-Commerce Platform](https://github.com/Parveen720/ScaleOrder)
 
-### 🛠️ Tech Stack
+- 🌱 I’m currently learning **System Design, LLD, Distributed Systems**
 
-Languages: C++, Python, C#
+- 👯 I’m looking to collaborate on **Open Source & Software Engineering Projects**
 
-**Backend:** .NET Core, Django, REST APIs, Microservices
+- 🤝 I’m looking for help with **Advanced DSA & System Design**
 
-**Frontend:** React, HTML, CSS, JavaScript
+- 👨‍💻 All of my projects are available at [https://parveen-portfolio.vercel.app/](https://parveen-portfolio.vercel.app/)
 
-**Databases:** PostgreSQL, SQL Server, Redis
+- 💬 Ask me about **C++, DSA, Python, C#, Problem Solving**
 
-**Tools:** Git, GitHub, Docker
+- 📫 How to reach me **parveenyadavpy57377@gmail.com**
 
-### 🚀 Featured Projects
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vhx-JC4FtQv3e5nBxsE5dxgqMH9gHIFr/view?usp=drive_link](https://drive.google.com/file/d/1vhx-JC4FtQv3e5nBxsE5dxgqMH9gHIFr/view?usp=drive_link)
 
-- **Microservices E-commerce:** User, Order and Payment Services with API Gateway.
-- **SKIT DDR Portal:** Django-based document management system.
-- **FitElite Gym:** .NET Core MVC application with JWT authentication.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/parveen-yadav-2b9667333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parveen-yadav-2b9667333/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/parveenyadavpy57377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parveenyadavpy57377" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/parveenyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parveenyd" height="30" width="40" /></a>
+</p>
 
-### 📊 Coding Profiles
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-- [LeetCode](https://leetcode.com/)
-- [Codeforces](https://codeforces.com/)
-- [LinkedIn](https://linkedin.com/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parveen720&show_icons=true&locale=en&layout=compact" alt="parveen720" /></p>
 
-### 🤝 Connect With Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parveen720&show_icons=true&locale=en" alt="parveen720" /></p>
 
-Feel free to explore my repositories and connect with me!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parveen720&" alt="parveen720" /></p>
